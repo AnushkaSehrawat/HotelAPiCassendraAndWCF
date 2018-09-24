@@ -1,0 +1,16 @@
+
+
+[
+    { 
+    "hotelid" : "1",
+    "amenities" : ["AC","TV","Free Wifi","GeyserCard","Payment Lift/Elevator"],
+    "images":"C:\Users\asehrawat\Desktop\hotel.jpg"
+  
+},
+{ 
+    "hotelid":"2",
+     "amenities" : ["AC","TV","Free Wifi","GeyserCard"],
+     "images":"C:\Users\asehrawat\Desktop\hotel1.jpg"
+  
+}
+]
