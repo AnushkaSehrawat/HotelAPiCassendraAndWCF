@@ -1,0 +1,15 @@
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\HotelWcfService.dll.config
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\HotelWcfService.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\HotelWcfService.pdb
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Cassandra.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\LZ4.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Cassandra.xml
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\obj\Debug\HotelWcfService.csproj.CoreCompileInputs.cache
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\obj\Debug\HotelWcfService.dll
+C:\Users\asehrawat\source\repos\HotelWcfService\HotelWcfService\obj\Debug\HotelWcfService.pdb
